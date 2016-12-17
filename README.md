@@ -1,0 +1,4 @@
+# probability-mapping
+Comparative analysis tool 
+BIGDATA CONTENT ANALYSIS PROJECT
+INDENTIFY AND QUANTIFY DATAFORMS
